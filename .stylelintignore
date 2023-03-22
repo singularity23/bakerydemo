@@ -3,3 +3,5 @@ venv
 .venv
 *.min.css
 bakerydemo/collect_static
+wagtailbakerydemo
+.env
